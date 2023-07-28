@@ -1,6 +1,6 @@
 ### Welcome 👋
 I'm a game dev student from Brazil.
-![bg](https://github.com/DuduBertol/DuduBertol/assets/88258208/7f53b370-011f-43b0-b6e7-951b53f0193b)
+![bg2](https://github.com/DuduBertol/DuduBertol/assets/88258208/1fe91162-74b0-4bfd-ae9f-72e86ada0ccb)
 
 
 <!--

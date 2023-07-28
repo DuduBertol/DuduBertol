@@ -2,7 +2,7 @@
 I'm a game dev student from Brazil.
 ![bg3](https://github.com/DuduBertol/DuduBertol/assets/88258208/d6b8dc29-0e99-4dc2-bb1a-7ec4f4b4277c)
 
-
+https://dudubertoldev.itch.io
 <!--
 **DuduBertol/DuduBertol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -16,7 +16,8 @@
 <div>
 - 👑 Ticky's Hats - <a href = "https://play.google.com/store/apps/details?id=com.DuduBertolDev.TickysHats" target="_blank"><img height="20em" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/><a>
 - 🌍 RUSHIA - <a href = "https://play.google.com/store/apps/details?id=com.dudubertoldev.rushia" target="_blank"><img height="20em" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/><a>
-- - 🍃 My BIOHome - <a href = "https://play.google.com/store/apps/details?id=com.DuduBertolDev.MyBIOHome" target="_blank"><img height="20em" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/><a>
+- 🍃 My BIOHome - <a href = "https://play.google.com/store/apps/details?id=com.DuduBertolDev.MyBIOHome" target="_blank"><img height="20em" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/><a>
+
 </div>
   <a href = "https://play.google.com/store/apps/details?id=com.DuduBertolDev.TickysHats" target="_blank"><img height="180em" src="https://github.com/DuduBertol/DuduBertol/assets/88258208/127f556e-85ad-44e1-910e-bf0a9da8b91d"/>
   <a href = "https://play.google.com/store/apps/details?id=com.dudubertoldev.rushia" target="_blank"><img height="180em" src="https://github.com/DuduBertol/DuduBertol/assets/88258208/1b9e437c-8ae7-4156-a6ee-749333c438b8"/>

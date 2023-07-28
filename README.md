@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome 👋
+I'm a game dev student from Brazil.
+![Unity_Technologies_logo svg](https://github.com/DuduBertol/DuduBertol/assets/88258208/41b35395-ceff-4d88-9d18-7f1cb50dc9ac) ![c-sharp-c-logo-02F17714BA-seeklogo com](https://github.com/DuduBertol/DuduBertol/assets/88258208/00048720-315b-4f0c-817c-de7b58e7fb31)
+
+
 
 <!--
 **DuduBertol/DuduBertol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,7 +12,16 @@
 </div>
 
 ##
-### 💻 Check my projects on Google Play
+### 💻 Check my projects on Itch.Io
+<div>
+- 🍨 Açaí Masters - <a href = "https://dudubertoldev.itch.io/acai-masters" target="_blank"><img height="20em" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/><a>
+</div>
+<div>
+- 🌵 Tabet - <a href = "https://dudubertoldev.itch.io/tabet" target="_blank"><img height="20em" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/><a>
+</div>
+
+##
+### 📲 Check my projects on Google Play
 <div>
 - 👑 Ticky's Hats - <a href = "https://play.google.com/store/apps/details?id=com.DuduBertolDev.TickysHats" target="_blank"><img height="20em" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/><a>
 </div>
@@ -23,8 +32,6 @@
   - 🍃 My BIOHome - <a href = "https://play.google.com/store/apps/details?id=com.DuduBertolDev.MyBIOHome" target="_blank"><img height="20em" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/><a>
 </div>
 
-
-
 <!--
 ##
 <div>
@@ -33,7 +40,7 @@
   <a href = "https://play.google.com/store/apps/details?id=com.DuduBertolDev.MyBIOHome" target="_blank"><img height="180em" src="https://github.com/DuduBertol/DuduBertol/assets/88258208/743f344f-e071-479a-b67c-aa08a8ec37ff"/>
 </div>
 -->
-
+  
 ##
 <div> 
   <a href = "https://www.linkedin.com/in/eduardo-bertol" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

@@ -7,7 +7,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudubertol&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudubertol&layout=compact&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubertol&layout=compact&theme=midnight-purple&hide=c%23,shaderlab,hlsl"/>
 </div>
 
 ![GitHub followers](https://img.shields.io/github/followers/DuduBertol?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/DuduBertol?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DuduBertol.repoName) <img src="https://komarev.com/ghpvc/?username=DuduBertol" alt="DuduBertol" />

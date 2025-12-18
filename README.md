@@ -27,4 +27,4 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dudubertol_/)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-bertol/)
 
-Check out my portfolio: [dudubertol](http://www.blabla)
+Check out my portfolio: [dudubertol](https://dudubertol.notion.site/portfolio)

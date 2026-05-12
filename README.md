@@ -7,6 +7,11 @@
 -  iOS Development student at <b>Apple Developer Academy - PUCPR</b> 
 - 📚 Graduating of <b>Informations Systems</b> at PUCPR
 
+<div>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dudubertol&show_icons=true&theme=midnight-purple&hide=c%23,shaderlab,hlsl" height="140"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dudubertol&layout=compact&theme=midnight-purple&hide=c%23,shaderlab,hlsl" height="180"/>
+</div>
+
 ---
 
 ## Main Skills
